@@ -75,6 +75,34 @@ export const hallOfPresidents = [
   },
 ];
 
+export const aboutDistrict = {
+  title: "District (306 D2)",
+  content: `Leo District 306 D2 is a vibrant district under the Leo Multiple District Council of Sri Lanka and Maldives. It covers key areas including Colombo City (Milagiriya, Pamankada, Havelock Town), the eastern stretch of Galle Road, and suburbs such as Kesbewa, Homagama, Kalutara, Bandaragama, Horana, Bulathsinhala, Ingiriya, and Matugama. The district plays a vital role in empowering youth through service and leadership across these diverse communities.`,
+  mapImage: "/images/district/map.png",
+  url: "https://leodistrict306d2.org/",
+  clubs: [
+    "Leo Club of Arawwala",
+    "Leo Club of Colombo Monarch",
+    "Leo Club of Dehiwala East",
+    "Leo Club of Ethos International College, Colombo VII",
+    "Leo Club of Gampaha Wickramarachchi University of Indigenous Medicine FISSMS",
+    "Leo Club of Godigamuwa",
+    "Leo Club of Kalubowila",
+    "Leo Club of Millaniya",
+    "Leo Club of Panadura Alubomulla",
+    "Leo Club of Pepiliyana Woodlands",
+    "Leo Club of Piliyandala",
+    "Leo Club of Piliyandala Central College",
+    "Leo Club of Polgasowita",
+    "Leo Club of Raththanapitiya",
+    "Leo Club of Saegis Campus",
+    "Leo Club of Sri Lanka Technological Campus",
+    "Leo Club of Taxila Central College",
+    "Leo Club of University of Moratuwa",
+    "Leo Club of University of Sri Jayewardenepura",
+  ],
+};
+
 export const corePillars = [
   {
     id: 1,

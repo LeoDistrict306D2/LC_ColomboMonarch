@@ -23,6 +23,7 @@ const Navbar = () => {
       label: 'About',
       dropdown: [
         { href: '#core-pillars', label: 'Core Pillars' },
+        { href: '#district', label: 'District 306 D2' },
         { href: '#projects', label: 'Our Projects' },
         { href: '#leadership', label: 'Current Leadership' },
         { href: '#legacy', label: 'Hall of Presidents' },

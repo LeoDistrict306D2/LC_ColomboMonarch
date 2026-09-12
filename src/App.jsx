@@ -3,6 +3,7 @@ import SplashScreen from './components/SplashScreen';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
 import OurStory from './components/OurStory';
+import District from './components/District';
 import CorePillars from './components/CorePillars';
 import Projects from './components/Projects';
 import KeyEvents from './components/KeyEvents';
@@ -25,6 +26,7 @@ function App() {
         <Navbar />
         <Hero />
         <OurStory />
+        <District />
         <CorePillars />
         <Projects />
         <KeyEvents />
